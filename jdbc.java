@@ -14,7 +14,7 @@ stmt.setInt(1,101);//1 specifies the first parameter in the query
 stmt.setString(2,"Ratan");  
   
 int i=stmt.executeUpdate();  
-System.out.println(i+" records inserted");  
+System.out.println(i+" records inserted Successfully");  
   
 con.close();  
   
