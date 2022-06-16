@@ -6,7 +6,7 @@ public Test{
 		{
 		 System.out.println("Hello nitesh");
 
-		 System.out.println("Hello Sir");
+		
 		}
 	}
 
